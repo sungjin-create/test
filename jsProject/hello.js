@@ -4,7 +4,7 @@ function func(word) {
 
 
 const word = '문자';
-const word2 = "나는 다른사람"
+const word2 = "버그 수정중"
 
 func(word2);
 
