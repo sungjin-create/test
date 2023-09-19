@@ -12,6 +12,7 @@ const word5 = '기능 추가2'
 const word6 = '기능 추가3'
 const word7 = '기능 추가4'
 const word7 = '기능 추가5'
+const word7 = '기능 추가6'
 
 
 
